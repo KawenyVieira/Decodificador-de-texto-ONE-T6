@@ -38,3 +38,6 @@ stateDiagram-v2
       <img src= "https://github.com/KawenyVieira/Decodificador-de-texto-ONE-T6/assets/105323660/1e73ec76-cde3-4036-bc75-047cc59dc19c" width= "500px"/>
     </div>
   
+<h2>⚙️Tecnologias Utilizadas</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,vscode,figma&theme=light)](https://skillicons.dev)

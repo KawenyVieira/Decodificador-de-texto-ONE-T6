@@ -47,4 +47,7 @@ EXTRAS: Rodape e botao copiar
     </div>
 
 ## Acesse o decodificador e descubra novas formas de se comunicar !! :+1:
+Como utilizar: <br>
+1. Acesse o link 2. Digite a palavra ou frase 3.Clique em Criptografar ou Desincriptografar 4. A resposta ira aparecer na tela do lado direito, aproveite e copie o texto pelo botao copiar e compartilhe!!
 
+[![decodificador vercel](https://github.com/KawenyVieira/Decodificador-de-texto-ONE-T6/assets/105323660/bf9058d3-29bc-4e4f-a5a7-22ecebb94498)](decodificador-de-texto-one-t6.vercel.app)]

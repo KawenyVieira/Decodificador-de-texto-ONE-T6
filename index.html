@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>ChallengeDecoder</title>
+
+        <link rel="stylesheet" href="Styles/style.css">
+        <link rel="stylesheet" href="Styles/responsive.css">
+    </head>
+<body>
+
+    <header>
+        <!--O cabeçalho do projeto é composto pela logo "a" da alura--> 
+        <img class="logo" src="assets/LogoA.png" alt="Logo Alura">
+    </header>
+
+    <main>
+<!-----------------------------------------------------left_Campo texto_Botoes Cripto/Descripto----------------------------------------------------------->
+        <div class="left">
+            <!--Campo para criptografar e desincriptografar--> 
+            <textarea id="textarea" spellcheck="false" class="text" type="text" name="nomeDoCampo" placeholder="Digite seu texto aqui"></textarea>
+
+            <div class="left_instructions">
+                <p class="left_alert">
+                    <img class="left_icone" src="assets/bi_exclamation-circle-fill.png" alt="ponto de exclamação">
+                    Apenas letras minúsculas e sem acento.
+                </p>
+            </div>
+
+            <div class="left_buttons">
+                <button class = criptografar>Criptografar</button>
+                <button class = descriptografar>Descriptografar</button>
+            </div>
+        </div>
+
+<!--------------------------------------------------------RIGHT_Campo Criptografia_Botao Copiar------------------------------------------------------------>
+        <div class="right">
+            <!--Resposta da criptografia-->
+            <p class ="right_answer"></p>
+
+            <div class="right_items">
+                <img class="right_img" src="assets/lupa.svg" alt="imagem de busca, uma pessoa ajoelhada investigando">
+                <div class="right_items_intructions">
+                    <h2>Nenhuma mensagem encontrada</h2>
+                    <p>Digite um texto que você deseja criptografar ou descriptografar.</p>
+                </div> 
+            </div>
+
+            <button class ="right_copy">Copiar</button>
+        </div>
+    </main>
+
+<!---------------------FOOTER---------------------->
+        <footer class="fixedFooter">
+            <h5> &copy; Desenvolvido por Kaweny vieira __ Challenge Alura - ONE __ 2024 </h5>
+        </footer>
+
+    </body>
+    <script src="script.js"></script>
+</html>

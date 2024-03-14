@@ -4,7 +4,7 @@ Sprint 01: Construa um decodificador de texto com Javascript<br>
 
 <h2>⚙️Tecnologias Utilizadas</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,vscode,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,vscode,figma&theme=light)](https://skillicons.dev)<br>
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
 ## Estrutura do projeto
@@ -48,6 +48,10 @@ EXTRAS: Rodape e botao copiar
 
 ## Acesse o decodificador e descubra novas formas de se comunicar !! :+1:
 Como utilizar: <br>
-1. Acesse o link 2. Digite a palavra ou frase 3.Clique em Criptografar ou Desincriptografar 4. A resposta ira aparecer na tela do lado direito, aproveite e copie o texto pelo botao copiar e compartilhe!!
+1. Clique na imagem da maquina Enigma de Alan Turing
+2. Digite a palavra ou frase
+3. Clique em Criptografar ou Desincriptografar
+4. A resposta ira aparecer na tela do lado direito, aproveite e copie o texto pelo botao copiar e compartilhe!!
 
-[![decodificador vercel](https://github.com/KawenyVieira/Decodificador-de-texto-ONE-T6/assets/105323660/bf9058d3-29bc-4e4f-a5a7-22ecebb94498)](decodificador-de-texto-one-t6.vercel.app)]
+[![decodificador vercel](https://github.com/KawenyVieira/Decodificador-de-texto-ONE-T6/assets/105323660/bf9058d3-29bc-4e4f-a5a7-22ecebb94498)](decodificador-de-texto-one-t6.vercel.app)
+*Enigma-Alan Turing*
